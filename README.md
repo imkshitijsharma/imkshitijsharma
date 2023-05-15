@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkshitijsharma&label=Profile%20views&color=0e75b6&style=flat" alt="imkshitijsharma" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Python projects**
 
 - 🌱 I’m currently learning **Python,MY SQL,Power BI And Tableau**
 
