@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](https://github.com/imkshitijsharma/imkshitijsharma/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Kshitij sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
