@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkshitijsharma&label=Profile%20views&color=0e75b6&style=flat" alt="imkshitijsharma" /> </p>
 
