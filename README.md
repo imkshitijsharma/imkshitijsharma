@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kshitij593@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Nothing is Impossible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
