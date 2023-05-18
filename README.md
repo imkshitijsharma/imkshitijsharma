@@ -1,6 +1,6 @@
 ![logo](https://github.com/imkshitijsharma/imkshitijsharma/blob/main/bannerr.gif)
 
-<h1 align="center">Hi 👋, I'm Kshitij sharma</h1>
+<h1 align="center">Hi 👋, I'm Kshitij sharma</h1>                   
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
@@ -9,7 +9,9 @@
 🔭 I’m currently working on : Python projects<br><br>- 🌱 I’m currently learning : Python,MY SQL,Power BI And Tableau<br><br>- 💬 Ask me about :  Coding<br><br>- 📫 How to reach me : kshitij593@gmail.com<br><br>- ⚡ Fun fact Nothing is Impossible
 
 ![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
-## 🌐 Socials:
+                                                               <h3 align="right">[![](https://visitcount.itsvg.in/api?id=imkshitijsharma&icon=6&color=9)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:                                                
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kshitij99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-sharma-9b554b173) 
 
 # 💻 Tech Stack:
@@ -20,7 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkshitijsharma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imkshitijsharma&icon=6&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
