@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
