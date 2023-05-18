@@ -1,5 +1,5 @@
 ![logo](https://github.com/imkshitijsharma/imkshitijsharma/blob/main/bannerr.gif)
-![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi 👋, I'm Kshitij sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **kshitij593@gmail.com**
 
 - ⚡ Fun fact **Nothing is Impossible**
+![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,4 +50,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
