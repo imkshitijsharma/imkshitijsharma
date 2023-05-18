@@ -1,4 +1,5 @@
 ![logo](https://github.com/imkshitijsharma/imkshitijsharma/blob/main/bannerr.gif)
+![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Kshitij sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
