@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on : Python projects<br><br>- 🌱 I’m currently learning : Python,MY SQL,Power BI And Tableau<br><br>- 💬 Ask me about :  Coding<br><br>- 📫 How to reach me : kshitij593@gmail.com<br><br>- ⚡ Fun fact Nothing is Impossible
+🔭 I’m currently working on : Python projects<br><br>- 🌱 I’m currently learning : Python,MY SQL,Power BI And Tableau<br><br>- 💬 Ask me about :  Coding<br><br>- 📫 How to reach me : kshitij593@gmail.com<br><br>- ⚡ Fun fact : Nothing is Impossible
 
 ![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
                                                                <h3 align="right">[![](https://visitcount.itsvg.in/api?id=imkshitijsharma&icon=6&color=9)](https://visitcount.itsvg.in)
