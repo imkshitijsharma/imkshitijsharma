@@ -21,7 +21,7 @@
 
 # ABOUT ME :
   
-👷 **Civil Engineer by Profession**, 💻 **Coding Enthusiast by Passion**.
+👷 **Civil Engineer **,💻 **Coding Enthusiast by Passion**.
 
 🌍 **Building bridges** between the world of civil engineering and the realm of coding.
 
