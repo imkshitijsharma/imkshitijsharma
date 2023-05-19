@@ -26,9 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imkshitijsharma&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="flex: 1;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imkshitijsharma&theme=radical&hide_border=false" style="flex: 1;">
 </div>
-
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkshitijsharma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![KSHITIJ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imkshitijsharma&theme=github-compact)](https://github.com/imkshitijsharma/github-readme-activity-graph)
+  
+[![Kshitij github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imkshitijsharma&theme=github-compact)](https://github.com/imkshitijsharma/github-readme-activity-graph)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
