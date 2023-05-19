@@ -28,7 +28,7 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkshitijsharma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![KSHITIJ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imkshitijsharma&theme=react-dark)](https://github.com/imkshitijsharma/github-readme-activity-graph)
+[![KSHITIJ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imkshitijsharma&theme=github-compact)](https://github.com/imkshitijsharma/github-readme-activity-graph)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
