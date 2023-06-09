@@ -1,7 +1,7 @@
 ![logo](https://github.com/imkshitijsharma/imkshitijsharma/blob/main/bannerr.gif)
 
 <h1 align="center">👋, I M Kshitij Sharma</h1>                   
-<h2 align="center"> DATA ANALYSIST FROM INDIA </h2>
+<h2 align="center"> DATA ANALYST FROM INDIA </h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
