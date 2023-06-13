@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 # 💫:
-🔭 I’m currently working on : **Designing of Hotel management system**<br><br>- 🌱 I’m currently learning : **DATA ANALYTICS**<br><br>- 💬 Ask me about :  **SQL**<br><br>- ⚡Fact :**Nothing is Impossible SO Try Hard**📫
+🔭 I’m currently working on : **Designing of Hotel management system**<br><br>- 🌱 I’m currently learning : **DATA ANALYTICS**<br><br>- 💬 Ask me about :  **SQL,PYTHON,MACHINE LEARNING**<br><br>- ⚡Fact :**Nothing is Impossible SO Try Hard**📫
 
 ![Snake animation](https://github.com/imkshitijsharma/imkshitijsharma/blob/output/github-contribution-grid-snake.svg)
                                                             <h3 align="right">[![](https://visitcount.itsvg.in/api?id=imkshitijsharma&icon=6&color=9)](https://visitcount.itsvg.in)
